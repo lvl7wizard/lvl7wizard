@@ -1,1 +1,1 @@
-Hey! I'm Dave. I'm currently completing a 13-week Software Engineering Bootcamp with Northcoders.
+Hi I'm Dave. I'm looking to start a career in software development after recently completing a software development bootcamp with Northcoders.
