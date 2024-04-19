@@ -1,3 +1,3 @@
-Hey! Welcome to my Github page. 
+Hey! Welcome to my GitHub page. 
 
-I've recently completed a software development course where I learnt the fundamentals of frontend and backend development. I'm currently looking for employment oppurtunities where I can utilise what I've learnt and continue along the learning journey.
+Check out my [portfolio site]((https://dave-judge-portfolio.netlify.app/)) for more information about me, my learning journey, and information/links to my latest projects.
