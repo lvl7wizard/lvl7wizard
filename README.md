@@ -1,5 +1,5 @@
 Hey! 
 
-I'm Dave, an aspiring Software Developer based in Sheffield, UK. 
+I'm Dave, a Junior Software Developer based in Sheffield, UK. 
 
 Check out my [portfolio site](https://dave-judge-portfolio.netlify.app/) for more information about me, my learning journey, and information/links to my latest projects.
