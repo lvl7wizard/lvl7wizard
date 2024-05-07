@@ -1,5 +1,6 @@
-Hey! 
+# Hey, I'm Dave 👋 
 
-I'm Dave, a Junior Software Developer based in Sheffield, UK. 
-
-Check out my [portfolio site](https://dave-judge-portfolio.netlify.app/) for more information about me, my learning journey, and information/links to my latest projects.
+* 🎓 I recently graduated from a 3 month Software Development bootcamp where I learnt to build fullstack web and mobile apps using Javascript and React.
+* 🌱 I'm currently learning TypeScript and exploring different frontend libraries (e.g. bootstrap, styled-components, CSS modules).
+* 🎨 Check out my portfolio [here](https://dave-judge-portfolio.netlify.app/)
+* 📭 Drop me a message at dave.j.judge@gmail.com
