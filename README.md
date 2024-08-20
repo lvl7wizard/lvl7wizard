@@ -1,5 +1,5 @@
 # Hey, I'm Dave
 
-* 🧱 I'm a junior developer and musician based in the north of England
-* 🌱 I'm currently learning java and test automation
+* 🧱 I'm a Junior Developer and musician based in Sheffield, UK
+* 🌱 I'm currently learning Java and Test Automation
 * 🎨 Check out my portfolio [here](https://dave-judge-portfolio.netlify.app/)
